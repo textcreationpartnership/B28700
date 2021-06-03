@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for chusing Sir Robert Atkins and Sir John Knight, Parliament-men for the city of Bristol.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28700</idno><idno type="EEBO-CITATION">99885922</idno>
+  <idno type="VID">188525</idno>
+  <idno type="EEBO-PROQUEST">2240882590</idno>
+  
+            <idno type="STC">Wing R487</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.16[24]</idno>
+            <idno type="STC">ESTC R225194</idno>
+            <idno type="PROQUEST">ocm99885922</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885922e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28700)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188525)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:1[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for chusing Sir Robert Atkins and Sir John Knight, Parliament-men for the city of Bristol.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Bristol? :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Atkyns, Robert, --  Sir, 1621-1709 --  Early works to 1800.</term>
+               <term type="personal_name">Knight, John, --  Sir, d. 1718 --  Early works to 1800.</term>
+               <term type="geographic_name">Bristol (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188525:1"/>
+            <head>REASONS for chusing Sir <hi>Robert Atkins</hi> and Sir <hi>John Knight,</hi> Parliament-Men for the City of <hi>Bristol.</hi>
+            </head>
+            <p>THAT Sir <hi>Robert Atkins</hi> and Sir <hi>John Knight</hi> have had great experience in Parliamen<g ref="char:EOLhyphen"/>tary Affairs, and thereby are much more fit to serve this City in that capacity, than Sir <hi>Richard Hart</hi> and Mr. <hi>Earle</hi> who were never there.</p>
+            <p>That the King's Life, as well as the Nation, is very much in danger by a Popish Plot, of which is Majesty his very sensible in his last Speech; and by his Writ does direct his Subjects to chuse the wisest and most Judicious Men to advise with in Parliament what to be done.</p>
+            <p>That with the Parliament we trust our Lives, Liberties, Estates, and Religion, and what<g ref="char:EOLhyphen"/>soever is near and dear unto us, in their hands; so that 'tis against all Reason to put out Men, of whose Loyalty, Wisdom and Integrity we have had large experience, and to venture our All with those who were never tried.</p>
+            <p>That the Cities of <hi>London</hi> and <hi>Westminster,</hi> and Borough of <hi>Southwark,</hi> and almost all the places in the Kingdom, have elected their old and knowing Members, thanking them for the pains they have taken: And shall <hi>Bristol</hi> be said to be unkind to Sir <hi>John Knight</hi> their honest old Member, and Sir <hi>Robert Atkins</hi> their worthy Recorder?</p>
+            <p>That Sir <hi>John Knight</hi> is a very knowing Merchant, and Sir <hi>Robert Atkins</hi> a great Lawyer; and can do much more Service for this City, in getting an Act for Merchandizing to the <hi>East-Indies</hi> and <hi>Turkie,</hi> by their Interest and knowledg in the Parliament-House, than either Sir <hi>Ri<g ref="char:EOLhyphen"/>chard Hart,</hi> or Mr. <hi>Earle,</hi> who have no such Interest with the Lords and Commons as they have.</p>
+            <p>That every Inhabitant of this City may easily see the difference betwixt Sir <hi>Robert Atkins</hi> and Sir <hi>John Knight</hi> on the one side, and Sir <hi>Richard Hart</hi> and Mr. <hi>Earl</hi> on the other, by the great numbers lately admitted to the Freedom of this City, of which every Lover of the City is desired to take notice, That Sir <hi>Robert Atkins</hi> and Sir <hi>John Knight</hi> have not made one free on their account, nor would have any of their Friends so do; as highly valuing the Priviledg and Freedom of this great City: and would rather not be Parliament-men than do the City so much wrong, as to make any person free that has no right.</p>
+            <p>That several hundreds have been lately made free, and they no way concerned in it, to the very great detriment of most of the Freemen of this City, who will more and more find it prove prejudical to all the <hi>Carpenters, Coopers, Taylors, Shoomakers, Smiths, Joyners,</hi> and other Tradesmen, Journymen and Apprentices.</p>
+            <p>That by these hundreds of Freedoms you may easily perceive what Pride and Ambition will do; and if, to be Parliament-men, your Freedoms shall at first be so poorly valued; what may such Men do in Parliament for more Honour? Remember that they also may give away your ALL.</p>
+            <p>That the Mayor and some others have ordered the Town-Clerk and Chamberlain, that Sir <hi>Robert Atkins</hi> and Sir <hi>John Knight</hi> shall have no Copy of the many hundreds that are lately made free, tho they are Justices of the Peace, and have power to know. By which every one may perceive their design; as also that several hundreds of Copies are kept by some in this City, when-as the persons they belong to ought to have the keeping thereof themselves; of which an accompt will be taken when time shall serve.</p>
+            <p>That Sir <hi>Robert Atkins</hi> and Sir <hi>John Knight</hi> were always known to be of the Church of <hi>England;</hi> and as loyal to their King as Sir <hi>Richard Hart</hi> or Mr. <hi>Earl</hi> can possibly pretend to; tho some unworthy persons (who dare not tell them so to their faces) asperse them other<g ref="char:EOLhyphen"/>wise.</p>
+            <p>That in so great a Concern you are not to chuse for favour nor affection, but such Men that can best serve the Nation in general, which we ought to prefer above private Esteem or Friendship: Otherwise, should any ill come by chusing new Men, and putting by good old ones, we may fear the fate of <hi>Rehoboam,</hi> who by advising with New Counsellors, and refusing the Advice of the old ones, the Kingdom was rent assunder: which God grant may never be this Nation's nor this Citie's Case. <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
